@@ -8,7 +8,7 @@ A website that offers fitness training services.
 * CSS
 
 ## Website
-https://milfred08.github.io/Run-Buddy/
+https://milfred08.github.io/runbuddy/
 
 ## Contribution
 Made with ❤️ by Milfred
